@@ -8,6 +8,8 @@ The objectives here were to:
 2. Understand how to insert data in JS objects into DOM elements
 3. Learn to use jQuery methods
 
+All controls on the finished app, such as the play buttons and volume/time sliders, have functionality.
+
 Please see a screenshort of the finished app, below:
 
 ![Bloc Jams](bloc_jqueryjams.png)
