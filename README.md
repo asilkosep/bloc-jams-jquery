@@ -10,4 +10,5 @@ The objectives here were to:
 
 Please see a screenshort of the finished app, below:
 
-![Bloc Jams] (bloc_jqueryjams.png)
+![Bloc Jams](bloc_jqueryjams.png)
+
