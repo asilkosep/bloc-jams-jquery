@@ -1,4 +1,13 @@
 # bloc-jams-jquery
 A starter project for Bloc's jQuery-driven music player app
 
-I contributed to the project by making updates in the HTML, CSS, and JS code in order to add functionality to the UI.
+As part of the Bloc Apprenticeship, I was tasked with rendering aspects of the UI as well as using jQuery to add functionality to a music player app called Bloc Jams. 
+
+The objectives here were to:
+1. Analyze the code base
+2. Understand how to insert data in JS objects into DOM elements
+3. Learn to use jQuery methods
+
+Please see a screenshort of the finished app, below:
+
+![Bloc Jams] (bloc_jqueryjams.png)
